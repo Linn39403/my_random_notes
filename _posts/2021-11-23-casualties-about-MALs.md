@@ -4,7 +4,7 @@ date: 2021-11-23
 ---
 အောက်ဖော်ပြပါ စာရင်းများသည် ခေတ်သစ်မီဒီယာမှ ကူးယူရရှိပါသည်။
 
-![2021-11-12](/assets/images/casualties/2021-11-12.jpg)
+![](/assets/images/casualties/2021-11-12.jpg)
 
 ![2021-11-13](assets/images/casualties/2021-11-13.jpg)
 

@@ -7,7 +7,7 @@ My programming and embedded system notes
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/my_random_notes{{_posts}}">{{2021-11-22-first_post.md}}</a>
+      <a href="/my_random_notes{{_posts}}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

@@ -2,6 +2,7 @@
 title: "စကစ သေနှုန်း စာရင်း"
 date: 2021-11-23
 ---
+
 အောက်ဖော်ပြပါ စာရင်းများသည် ခေတ်သစ်မီဒီယာမှ ကူးယူရရှိပါသည်။
 
 ![](/assets/images/casualties/2021-11-12.jpg)
@@ -26,3 +27,6 @@ date: 2021-11-23
 
 ![2021-11-22](assets/images/casualties/2021-11-22.jpg)
 
+![2021-11-23](assets/images/casualties/2021-11-23.jpg)
+
+![2021-11-24](assets/images/casualties/2021-11-24.jpg)

@@ -38,3 +38,5 @@ date: 2021-11-23
 ![2021-11-27](assets/images/casualties/2021-11-27.jpg)
 
 ![2021-11-28](assets/images/casualties/2021-11-28.jpg)
+
+![2021-11-29](assets/images/casualties/2021-11-29.jpg)

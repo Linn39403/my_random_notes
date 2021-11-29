@@ -1,5 +1,5 @@
 ---
-title: "စကစ သေနှုန်း စာရင်း"
+title: "စကစ သေနှုန်း စာရင်း (Nov/2021)"
 date: 2021-11-23
 ---
 
@@ -30,3 +30,11 @@ date: 2021-11-23
 ![2021-11-23](assets/images/casualties/2021-11-23.jpg)
 
 ![2021-11-24](assets/images/casualties/2021-11-24.jpg)
+
+![2021-11-25](assets/images/casualties/2021-11-25.jpg)
+
+![2021-11-26](assets/images/casualties/2021-11-26.jpg)
+
+![2021-11-27](assets/images/casualties/2021-11-27.jpg)
+
+![2021-11-28](assets/images/casualties/2021-11-28.jpg)

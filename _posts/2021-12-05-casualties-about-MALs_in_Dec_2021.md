@@ -12,3 +12,15 @@ date: 2021-12-05
 ![2021-12-03](assets/images/casualties/Dec_21/2021-12-03.jpg)
 
 ![2021-12-04](assets/images/casualties/Dec_21/2021-12-04.jpg)
+
+![2021-12-05](assets/images/casualties/Dec_21/2021-12-05.jpg)
+
+![2021-12-06](assets/images/casualties/Dec_21/2021-12-06.jpg)
+
+![2021-12-07](assets/images/casualties/Dec_21/2021-12-07.jpg)
+
+![2021-12-08](assets/images/casualties/Dec_21/2021-12-08.jpg)
+
+![2021-12-09](assets/images/casualties/Dec_21/2021-12-09.jpg)
+
+![2021-12-10](assets/images/casualties/Dec_21/2021-12-10.jpg)
